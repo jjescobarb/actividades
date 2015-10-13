@@ -1,4 +1,0 @@
-tipo=vehiculo
-modelo=BR323
-cilindraje=3400
-n_ejes=2
